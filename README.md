@@ -1,2 +1,8 @@
 # VUR
-Void User repository is insipred by Arch User repository
+AUR alternative for void linux -> https://codeberg.org/VBR
+
+VBR
+Void Bin Repo
+VUR
+AUR
+Arch User Repository
